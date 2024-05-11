@@ -1,0 +1,51 @@
+﻿datetime,severity,location,country,state,latitude,longitude,comment,type
+5/27/2023,1,Tungelsta,SE,AB,59.0876483,18.033468,morbi odio odio elementum eu interdum eu tincidunt in leo,WIND
+12/18/2022,1,Aimadamodo,ID,,-10.5822,121.8062,non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu,TOR
+7/3/2022,1,Berlin,DE,BE,52.416925,13.6492904,luctus ultricies eu nibh quisque id justo sit amet sapien,HAIL
+2/14/2023,4,Solntsevo,RU,,55.650711,37.39423,imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue,WIND
+6/18/2022,4,Aliwal North,ZA,,-30.6866136,26.7063745,at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede,TOR
+6/21/2022,2,Chaoyang,CN,,41.57365,120.4493879,magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient,TOR
+6/15/2022,2,Barra de SÃ£o Francisco,BR,,-18.8228804,-40.9050432,luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas,HAIL
+8/20/2022,2,WojciechÃ³w,PL,,51.2383684,22.235175,erat volutpat in congue etiam justo etiam pretium iaculis justo in hac,HAIL
+7/30/2022,4,Sambopinggir,ID,,-7.0215218,112.4798088,venenatis tristique fusce congue diam id ornare imperdiet sapien urna,HAIL
+5/27/2023,3,BrzeÅºnica,PL,,51.7173795,15.4240467,maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut,HAIL
+9/13/2022,1,Guzhu,CN,,26.8429645,107.2902839,dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur,TOR
+6/29/2022,3,Semboropasar,ID,,-8.2103859,113.4469459,ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at,WIND
+6/28/2022,2,Leubatang,ID,,-8.3124202,123.7238308,lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed,WIND
+3/18/2023,4,Svalyava,UA,,48.5428567,22.9948916,id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem,WIND
+1/28/2023,4,Concordia,PE,,-4.579855,-74.750168,rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer,TOR
+2/10/2023,1,Pukkila,FI,,60.6458731,25.5831031,fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis,TOR
+12/22/2022,2,PolÃ½kastro,GR,,40.9971976,22.5703984,non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis,HAIL
+8/5/2022,2,Helong,CN,,42.546675,129.010106,ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in,WIND
+3/23/2023,1,Chenguang,CN,,24.803563,115.482733,congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna,TOR
+6/25/2022,3,Urung,ID,,0.7788357,103.4627375,habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie,TOR
+3/10/2023,3,Al JÄ«b,PS,,31.850989,35.183103,fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id,TOR
+6/19/2022,1,Centre de Flacq,MU,,-20.2029069,57.7289398,mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel,HAIL
+2/27/2023,3,Libu,CN,,25.410654,107.88645,luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci,HAIL
+3/11/2023,4,Makueni,KE,,-1.7864953,37.6311071,orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula,HAIL
+8/9/2022,2,Pasirlaja,ID,,-6.5472126,106.8384873,aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt,WIND
+4/28/2023,1,Nizhnevartovsk,RU,,61.2844577,77.0904561,donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi,WIND
+12/28/2022,4,Grand Rapids,US,MI,42.9115599,-85.6264635,nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat,WIND
+6/6/2023,2,Chengqiao,CN,,33.720769,115.000183,iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget,HAIL
+12/2/2022,1,Bamnet Narong,TH,,15.4963503,101.6385328,nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia,WIND
+3/20/2023,2,Ä†mielÃ³w,PL,,50.8900563,21.5149892,ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel,TOR
+10/28/2022,4,Balahovit,AM,,40.2544003,44.6027766,accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec,TOR
+3/13/2023,4,Dingzhai,CN,,30.019858,122.106773,in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer,WIND
+3/17/2023,4,Nanshan,CN,,22.533012,113.930475,etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa,TOR
+10/27/2022,1,Laoxialu,CN,,30.181201,114.984292,odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla,WIND
+6/7/2023,2,Tanjungpati,ID,,-0.1869837,100.6537593,posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut,WIND
+8/27/2022,1,Lymanske,UA,,46.6794431,29.974368,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti,WIND
+5/23/2023,2,SibatÃ©,CO,,4.485011,-74.259334,natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus,WIND
+4/12/2023,2,Karlskoga,SE,T,59.2423602,14.4352781,erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec,TOR
+1/28/2023,1,Ä€rt KhwÄjah,AF,,37.08571,69.47958,erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in,WIND
+5/21/2023,2,Zhashkiv,UA,,49.2412468,30.098993,luctus nec molestie sed justo pellentesque viverra pede ac diam,HAIL
+8/15/2022,2,Tinalmud,PH,,13.6333332,122.8833313,nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate,HAIL
+2/13/2023,3,Karanganyarkrajan,ID,,-6.8243672,110.7880536,arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis,HAIL
+11/18/2022,3,Brie-Comte-Robert,FR,A8,48.69682,2.567685,posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a,HAIL
+2/26/2023,1,VÃ¤stra FrÃ¶lunda,SE,O,57.6455018,11.9253004,ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis,HAIL
+9/27/2022,1,Granville,FR,99,48.8331738,-1.6029573,ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam,WIND
+8/25/2022,3,Nastola,FI,,60.9358323,25.9350435,lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate,WIND
+8/15/2022,2,Mahdalynivka,UA,,48.9776332,34.9908882,pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra,HAIL
+11/24/2022,2,SÃ£o Torcato,PT,3,41.4833449,-8.2551219,elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis,WIND
+3/10/2023,1,Euclides da Cunha,BR,,-10.5219124,-38.9066439,consequat ut nulla sed accumsan felis ut at dolor quis,TOR
+9/9/2022,2,Quesada,GT,,14.2712301,-90.0375295,non mi integer ac neque duis bibendum morbi non quam,TOR
