@@ -26,7 +26,7 @@ import org.nd4j.linalg.lossfunctions.LossFunctions;
 
 public class MLPLinearClassifier {
 	public static void main(String[] args) throws IOException, InterruptedException {
-		String baseDir = "/Users/guilh/MLPLinearClassifier/data/training_data.csv";
+		String baseDir = "C:/Users/thili/Desktop/My Works/SLIIT works/3rd Year/Internship/deeplearning/deepLearning4j-TriedOutSample/data/training_data.csv"
 		int seed = 123;
 		double learningRate = 0.01;
 		int batchSize = 50;
